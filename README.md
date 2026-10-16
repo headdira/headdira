@@ -1,30 +1,56 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5a78ff&height=120&section=header"/>
+<p align="center">
+  <img src="assets/banner.png" alt="Gerson Moreira, engenheiro de IA agêntica, com a turma de capivaras em pixel art" width="100%">
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/gerson-moreira-60432b27b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gerson%20Moreira-0a66c2?style=flat&logo=linkedin&logoColor=white"></a>
+  <img alt="Belo Horizonte" src="https://img.shields.io/badge/Belo%20Horizonte-Brasil-3fae4a?style=flat">
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5a78ff&size=35&center=true&vCenter=true&width=1000&lines=Hello!,+My+Name+is+Gerson+Moreira!;+I+study+analysis+and+systems+development+at+Wyden!;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+Sou engenheiro de IA agêntica em Belo Horizonte. Construo agentes que trabalham de verdade: times de agentes com ferramentas reais, servidores MCP, RAG, voz em tempo real e as peças de produto e plataforma em volta deles.
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=headdira&show_icons=true&count_private=true&hide_border=true&title_color=5a78ff&icon_color=5a78ff&text_color=c9d1d9&bg_color=0d1117" alt="Gerson Moreira github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=headdira&layout=compact&hide_border=true&title_color=5a78ff&text_color=5a78ff&bg_color=0d1117" />
-</div>
+## O que eu faço
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=headdira&bg_color=000000&color=15e5a6&line=5a78ff&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- **Agentes e times de agentes** com Agno e Claude Code: subagentes, skills, hooks e mods.
+- **Servidores MCP** e um gateway de MCP que entrega ferramentas sob demanda aos agentes.
+- **RAG híbrido** com busca vetorial, rerank e um juiz que confere se o trecho responde.
+- **Voz em tempo real** com Gemini Live e OpenAI Realtime, com o servidor só repassando áudio e tratando as funções.
+- **Produto full stack**: Next.js e TypeScript na frente, FastAPI e Python ou .NET atrás.
+- **Plataforma**: AWS (EKS, ECR), Kubernetes, Helm, ArgoCD e GitOps.
 
-<div align="center">  
-  <a href="https://www.linkedin.com/in/gerson-moreira-60432b27b/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
+## Em destaque
 
- 
-### Main skills:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117) 
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117) 
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117) 
-  
-### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117) 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/headdira/ze-capibara"><strong>ze-capibara</strong></a><br>
+      Uma capivara em pixel art que trabalha acima do prompt do Claude Code. Cada subagente vira uma capivarinha com o traje dele. Vem com skills para criar bonecos, subagentes e skills.<br>
+      <sub>TypeScript · Claude Code mod</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/headdira/tradutor"><strong>tradutor</strong></a><br>
+      Traduz um áudio em inglês para português: transcreve, traduz e gera o áudio de saída.<br>
+      <sub>Python · fala e tradução</sub>
+    </td>
+  </tr>
+</table>
 
+## Stack
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5a78ff&height=120&section=footer"/>
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=3776ab)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat&logo=typescript&logoColor=3178c6)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat&logo=fastapi&logoColor=009688)
+![.NET](https://img.shields.io/badge/.NET-0d1117?style=flat&logo=dotnet&logoColor=512bd4)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat&logo=postgresql&logoColor=4169e1)
+![Claude](https://img.shields.io/badge/Claude%20Code-0d1117?style=flat&logo=claude&logoColor=d97757)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat&logo=kubernetes&logoColor=326ce5)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-0d1117?style=flat&logo=argo&logoColor=ef7b4d)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat&logo=amazonwebservices&logoColor=ff9900)
+
+<details>
+<summary>English</summary>
+
+I'm an agentic AI engineer from Belo Horizonte, Brazil. I build AI agents that do real work: agent teams with real tools, MCP servers, RAG, real-time voice, and the product and platform pieces around them. Stack: Python, TypeScript, Next.js, FastAPI, .NET, Kubernetes, Argo CD and AWS.
+
+</details>
