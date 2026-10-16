@@ -20,20 +20,11 @@ Sou engenheiro de IA agêntica em Belo Horizonte. Construo agentes que trabalham
 
 ## Em destaque
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/headdira/ze-capibara"><strong>ze-capibara</strong></a><br>
-      Uma capivara em pixel art que trabalha acima do prompt do Claude Code. Cada subagente vira uma capivarinha com o traje dele. Vem com skills para criar bonecos, subagentes e skills.<br>
-      <sub>TypeScript · Claude Code mod</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/headdira/tradutor"><strong>tradutor</strong></a><br>
-      Traduz um áudio em inglês para português: transcreve, traduz e gera o áudio de saída.<br>
-      <sub>Python · fala e tradução</sub>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/headdira/ze-capibara">
+  <img src="https://raw.githubusercontent.com/headdira/ze-capibara/master/docs/turma.gif" alt="ze-capibara: o Zé e a turma de capivaras trabalhando acima do prompt do Claude Code" width="100%">
+</a>
+
+**[ze-capibara](https://github.com/headdira/ze-capibara)** · Uma capivara em pixel art que trabalha acima do prompt do Claude Code. Cada subagente vira uma capivarinha com o traje dele. Vem com skills para criar bonecos, subagentes e skills. <sub>TypeScript · Claude Code mod</sub>
 
 ## Stack
 
